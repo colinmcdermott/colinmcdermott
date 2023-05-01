@@ -1,6 +1,6 @@
 ### Ahoj! 👋
 
-Here are some ideas to get you started:
+My name is Colin and I have been making and marketing websites for nearly 2 decades
 
 - 🔭 I’m currently working on [PubIndexAPI](https://www.pubindexapi.com/)
 - 🌱 I’m currently learning JavaScript, all things SaaS
