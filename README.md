@@ -1,4 +1,4 @@
-### Ahoj! 👋
+### Ahoy! 👋⛵
 
 My name is Colin and I have been making and marketing websites for nearly 2 decades
 
